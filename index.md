@@ -1,3 +1,7 @@
-- 签到时间 2024-08-06 20:02:06 [![签到状态](https://github.com/mr-dragon/189pan/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/mr-dragon/189pan/actions/workflows/main.yml)
+- 签到时间 2024-08-06 22:39:14 [![签到状态](https://github.com/mr-dragon/189pan/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/mr-dragon/189pan/actions/workflows/main.yml)
 - 开始执行帐号1
-- 账户名或密码错误
+- 登录成功
+- 已经签到过了，签到获得2M空间
+- 第1抽奖失败，可能是次数不足了
+- 第2抽奖失败，可能是次数不足了
+- 第3抽奖失败，可能是次数不足了
